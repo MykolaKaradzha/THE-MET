@@ -13,5 +13,5 @@ Landing implemented using:
 Link to preview on github pages:
 - [DEMO LINK](https://MykolaKaradzha.github.io/THE-MET/)
 
-Link to repository on my github page:
+Link to figma design:
 - [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design)
